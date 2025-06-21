@@ -6,6 +6,8 @@ This repository contains solutions for **Assignment 1**, a group project that co
 
 ## 🧠 Treemap Analysis (Task 1)
 
+![](https://i.imgur.com/ZudzhTr.png)
+
 A theoretical reflection task where you:
 
 - Analyze what the treemap communicates
@@ -16,7 +18,11 @@ A theoretical reflection task where you:
 
 📎 Reference: [Wikipedia – Treemapping](https://en.wikipedia.org/wiki/Treemapping)
 
-📝 Answers:
+📝 **Answers (In Swedish)**:
+
+![](https://i.imgur.com/SdJCpeo.png)
+![](https://i.imgur.com/mHNxM1f.png)
+![](https://i.imgur.com/OjVYlPX.png)
 
 ---
 
@@ -38,11 +44,14 @@ A theoretical reflection task where you:
 
 ---
 
-## 📝 Results
+## 📝 Results for Task 2 and Task 3
 
-Code (Swedish):
-
-![Alt-text](https://imgur.com/a/Us191bx)
+![Code](https://i.imgur.com/0Z93yda.png)
+![Code2](https://i.imgur.com/kdGEpXV.png)
+![Code3](https://i.imgur.com/E3OUzor.png)
+![](https://i.imgur.com/BO08K6w.png)
+![](https://i.imgur.com/X0f9jOv.png)
+![](https://i.imgur.com/9X3kv0K.png)
 
 
 ---
