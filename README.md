@@ -40,8 +40,10 @@ A theoretical reflection task where you:
 
 ## 📝 Results
 
-- `Group_X.qmd`: Source Quarto file with embedded code, answers, and plots
-- `Group_X.pdf`: Exported file with visible code and results
+Code (Swedish):
+
+![Alt-text](https://imgur.com/a/Us191bx)
+
 
 ---
 
